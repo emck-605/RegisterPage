@@ -1,0 +1,67 @@
+body{
+    background-color:rgb(68, 180, 250)
+}
+.about{
+    background-color: rgb(2, 110, 252);
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+.register{
+    background-color: rgb(2, 110, 252);
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+.header{
+    text-align: right;
+    background-color: white;
+    height: 20px;
+    padding: 20px;
+    margin-top: -7px;
+    margin-left: -7px;
+    margin-right: -7px;
+    font-family: 'Roboto', sans-serif;
+}
+.registration{
+    text-align: center;
+    border-radius: 5px;
+    width: 310px;
+    height: 450px;
+    margin-top: 70px;
+    margin-left: 490px;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.submit{
+    background-color: rgb(2, 110, 252);
+    font-size: 20px;
+    color: white;
+    border-radius: 3px;
+    padding: 5px;
+    padding-left: 118px;    
+    padding-right: 118px;
+    text-decoration: none;
+}
+h2{
+    text-align: left;
+    margin-left: 20px;
+}
+input{
+    width: 90%;
+    padding: 5px;
+    border-radius: 3px;
+    margin-bottom: 9px;
+}
+img{
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    margin-top: 40px;
+    object-fit: cover;
+    border: .5px solid black;
+}
